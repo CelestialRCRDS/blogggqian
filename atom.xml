@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CyNX</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-05-26T12:35:10.789Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>CyberNexi Official</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BoRan</title>
+    <link href="http://example.com/2024/05/26/BoRan/"/>
+    <id>http://example.com/2024/05/26/BoRan/</id>
+    <published>2024-05-26T12:33:34.275Z</published>
+    <updated>2024-05-26T12:35:10.789Z</updated>
+    
+    <content type="html"><![CDATA[<p>还没写完.听听和学弟BoRan的新ID(他还没想好歌词)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;还没写完.听听和学弟BoRan的新ID(他还没想好歌词)&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hey!This is CyberNexi</title>
+    <link href="http://example.com/2024/05/26/This-is-CyberNexi/"/>
+    <id>http://example.com/2024/05/26/This-is-CyberNexi/</id>
+    <published>2024-05-26T11:32:55.635Z</published>
+    <updated>2024-05-26T12:32:54.331Z</updated>
+    
+    <content type="html"><![CDATA[<p>还没写完.听听和学弟BoRan的新ID</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;还没写完.听听和学弟BoRan的新ID&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
